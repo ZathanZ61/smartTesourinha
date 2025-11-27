@@ -1,4 +1,4 @@
-# drenagemTesourinhas
+# Smart Tesourinhas
 Projeto da disciplina linguagens formais e autômatos, cidade inteligente.
 
 #  AutoMAthon: Smart-Tesourinhas
